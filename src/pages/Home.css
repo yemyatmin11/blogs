@@ -1,0 +1,11 @@
+.App .card {
+    border: 1px solid rgb(190, 187, 187);
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 1px rgb(0, 0, 0.1);
+}
+.App .card a {
+    color: rgb(67, 67, 241);
+    text-decoration: underline;
+}
